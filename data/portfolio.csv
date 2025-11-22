@@ -1,0 +1,6 @@
+﻿ID;Tipo;Produto;Notional;Currency;StartDate;EndDate;Taxa;Indexador;Counterparty
+1;Swap;Swap DI x Pré;10000000;BRL;02/01/25;02/01/28;0.1150;DI;Banco XPTO
+2;Swap;Swap Pré x CDI;5000000;BRL;01/06/24;01/06/27;0.1210;CDI;Cliente A
+3;NDF;NDF USD/BRL;2000000;USD;01/12/24;01/12/26;5.10;FX;Cliente B
+4;FRA;FRA DI;15000000;BRL;01/03/25;01/09/25;0.1270;DI;Banco Global
+5;Option;FX Call;3000000;USD;01/11/24;01/11/25;5.20;FX;Cliente C
