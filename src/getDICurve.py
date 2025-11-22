@@ -14,3 +14,4 @@ with urlopen(URL) as response, open(output_path, "wb") as file_handle:
 
 file_size_bytes = os.path.getsize(output_path)
 print(f"Downloaded to: {output_path} ({file_size_bytes} bytes)")
+
